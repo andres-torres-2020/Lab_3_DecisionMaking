@@ -1,0 +1,26 @@
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.exe
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.deps.json
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.runtimeconfig.json
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.runtimeconfig.dev.json
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.dll
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.pdb
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.csprojAssemblyReference.cache
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.AssemblyInfoInputs.cache
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.AssemblyInfo.cs
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.dll
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.pdb
+C:\Users\andy\source\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.genruntimeconfig.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.exe
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.deps.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.runtimeconfig.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.runtimeconfig.dev.json
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\bin\Debug\netcoreapp3.1\Lab_3_DecisionMaking.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.csprojAssemblyReference.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.AssemblyInfoInputs.cache
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.AssemblyInfo.cs
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.dll
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.pdb
+C:\Users\andy\Documents\_MY\MyDocuments\MyCode\GRAND CIRCUS\andres_torres\repos\Lab_3_DecisionMaking\Lab_3_DecisionMaking\obj\Debug\netcoreapp3.1\Lab_3_DecisionMaking.genruntimeconfig.cache
