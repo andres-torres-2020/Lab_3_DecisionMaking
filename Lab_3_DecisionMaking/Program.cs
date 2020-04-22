@@ -63,8 +63,13 @@ namespace Lab_3_DecisionMaking
                     Console.WriteLine($"{number} Odd.");
                 }
 
-                Console.Write($"{name}, continue? (y/n) ");
-                continueResponse = Console.ReadLine().Trim().ToLower();
+                // prompt for continuation or conclusion
+                do
+                {
+                    Console.Write($"{name}, continue? (y/n) ");
+                    continueResponse = Console.ReadLine().Trim().ToLower();
+                } while (continueResponse != "y" && continueResponse != "n");
+                Console.WriteLine("");
             }
             Console.WriteLine($"Bye, {name} !");
         }
